@@ -1,24 +1,5 @@
-# README
+# Web Site AIR SUPREME SAS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Página Web para AIR SUPREME S.A.S
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://air-supreme.com
